@@ -1,2 +1,2 @@
 # Flappy Bird
- Game with js
+ Game with js.
